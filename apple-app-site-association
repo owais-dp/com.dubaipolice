@@ -1,7 +1,21 @@
 {
-    "webcredentials": {
-        "apps": [
-            "3EE85DWYR7.com.DubaiPolice.SmartOfficer.Attendance"
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "3EE85DWYR7.com.DubaiPolice.SmartOfficer.Attendance"
+        ],
+        "components": [
+          {
+            "/": "*"
+          }
         ]
-    }
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+     "3EE85DWYR7.com.DubaiPolice.SmartOfficer.Attendance"
+    ]
+  }
 }
